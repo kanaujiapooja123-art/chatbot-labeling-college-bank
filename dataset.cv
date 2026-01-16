@@ -1,0 +1,8 @@
+Message,Intent,Sentiment,PII Flag
+I can't log in to my account,Complaint,Negative,No
+Thanks for the quick response,Feedback,Positive,No
+My email is xyz@example.com,Request,Neutral,Yes
+I want a refund for my order,Request,Negative,No
+Please reset my password,Request,Negative,No
+Your support team was great,Feedback,Positive,No
+My phone number is 9876543210,Request,Neutral,Yes
